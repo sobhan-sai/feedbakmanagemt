@@ -1,0 +1,52 @@
+.panel-header-color {
+    background-color: #0033cc;
+}
+
+.nav-bar-title-color {
+    color: white;
+    
+}
+.nav-item-hover:hover{
+    color: #0cc66e;
+    background: rgb(44, 35, 35);
+}
+.panel-width {
+    margin: 20px;
+}
+.user-image-style {
+    color: white;
+    height: 25px;
+}
+.user-no-image-style {
+    color: white;
+    border-radius: 50%;
+}
+.initials-name {
+    background: blue;
+    color: white;
+    border-radius: 50%;
+    padding: 3px;
+}
+.dropdown-style{
+    padding-left: 50%;
+}
+.menu-link-size {
+    font-size: 80%;
+}
+.conf-dropdown-style{
+     background-color: #0033cc;
+    color: white;
+    margin-top: 2%;
+}
+.conf-dropdown-style:hover{
+    background: white;
+    color:#33ff33;
+}
+.copyright-font-style{
+    font-size: small;
+    color: #5c8a8a;
+    margin: 10%;
+    margin-top: 20%;
+    margin: 0px;
+    padding-left: 3%;
+}

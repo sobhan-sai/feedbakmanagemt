@@ -1,0 +1,99 @@
+.bg-color-coral {
+    background-color: #D73B3E;
+}
+.bg-color-orange {
+    background-color: orange;
+}
+.bg-color-purple {
+    background-color: #cc0099;
+}
+.bg-color-grey {
+    background-color: #737373;
+}
+.font-color {
+    color: white;
+}
+.icon-color-tv {
+    font-size: 50px;
+    color: lightsalmon;
+}
+.icon-color-clock {
+    font-size: 50px;
+    color: darkgray;
+}
+.icon-color-users {
+    font-size: 50px;
+    color: plum;
+}
+.icon-color-link {
+    font-size: 50px;
+    color: peru;
+    transform: rotate(90deg);
+}
+.font-size-body{
+    font-size: 30px;
+}
+.font-size-head {
+    font-size: 15px;
+}
+.panel-header-color {
+    background-color: #0033cc;
+}
+
+.nav-bar-title-color {
+    color: white;
+    
+}
+.nav-item-hover:hover{
+    color: #0cc66e;
+    background: white;
+}
+.panel-width {
+    margin: 20px;
+}
+.user-image-style {
+    background: grey;
+    color: white;
+    border-radius: 50%;
+    height: 43px;
+}
+.user-no-image-style {
+    background: blue;
+    color: white;
+    border-radius: 50%;
+}
+.initials-name {
+    background: blue;
+    color: white;
+    border-radius: 50%;
+    padding: 3px;
+}
+.dropdown-style{
+    padding-left: 50%;
+}
+.menu-link-size {
+    font-size: 80%;
+}
+.nav-icon-pad-style {
+    padding-right: 7px;
+}
+.events-btn-style {
+    border-color: #b30000;
+    background-color:#b30000;
+}
+.participants-btn-style {
+    border-color: #333333;
+    background-color:#333333;
+}
+.lives-btn-style {
+     border-color: #995c00;
+    background-color:#995c00;
+}
+.volunteers-btn-style {
+     border-color: #800080;
+    background-color:#800080;
+}
+.view-click-style {
+    float: right;
+    font-size: small;
+}

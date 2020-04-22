@@ -1,0 +1,105 @@
+
+.content{
+    word-wrap:break-word; 
+    overflow-wrap:break-word;
+  }
+  
+  table{
+    width:80%; 
+  }
+  
+  .overflow-wrap-hack{
+  border:solid 1px #737373;
+   max-width: 80px;
+   overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .panel-header-color {
+      background-color: #0033cc;
+  }
+  
+  .nav-bar-title-color {
+      color: white;
+  }
+  .panel-width {
+      margin: 20px;
+  }
+  .clear-filter-btn-style {
+      background-color: #ff4d4d;
+      border-color:  #ff4d4d;
+      margin: 5px;
+  }
+  .dw-excel-btn-style{
+      margin: 5px;
+      background-color: #0033cc;
+  } 
+  .cross-panel-btn-style {
+       background-color: #ff4d4d;
+        border-radius: 70%;
+         margin-right: 6px;
+  }
+  .minus-panel-btn-style {
+      background-color: #ff9933;
+       border-radius: 70%;
+       margin-right: 6px;
+  }
+  .replay-panel-btn-style{
+       background-color:#009933;
+       border-radius: 70%;
+  }
+  .card1-header-color {
+     background-color:  #29a3a3;
+     display: inline-block;
+     border-color:  #29a3a3;
+     margin-left: 1%;
+  }
+  .card1-body-color {
+     background-color:  #99e6e6;
+     display: inline-block;
+      border-color:  #99e6e6;
+  }
+  .card2-header-color {
+     background-color: #007acc;
+     display: inline-block;
+     border-color:  #007acc;
+     margin-right: 1%;
+  }
+  .card2-body-color {
+     background-color:  #80bfff;
+     display: inline-block;
+      border-color:  #80bfff;
+  }
+  .email-report-icon-style{
+      align-content: center;
+      color: #29a3a3;
+   display: inline-block;
+    
+  }
+  .envelope-icon-style {
+      color: black;
+  }
+     
+  .card-title-font-style{
+      font-size: x-small;
+      font-weight: bold;
+  }
+  .card1-title-color{
+   color:  #29a3a3;
+  }
+  .card2-title-color {
+   color: #007acc;
+  }
+  .envelope-icon-style {
+      color: black;
+      font-size : 70px;
+      text-align: center;
+      display: inline-block;
+      width: 100%;
+      padding-top: 20%;
+  }
+  
+  .autocompose-text-style {
+      font-size: x-small;
+  }
+  
